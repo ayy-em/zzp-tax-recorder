@@ -133,3 +133,6 @@ cython_debug/
 
 # Flet
 storage/
+
+# Database
+data/
